@@ -63,7 +63,7 @@ module.exports = {
   findPreprocessor: function() {
     var _this = this;
     return supportedPreprocessors.find(function(name) {
-      return !!_this.app.project.findAddonByName(`ember-cli-${name}`);
+      return !!_this.app.project.findAddonByName('ember-cli-' + name);
     });
   },
   hasPreprocessor: function() {
