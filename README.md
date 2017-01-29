@@ -1,5 +1,8 @@
 # ember-roboto-fontface
 
+[![Build Status](https://travis-ci.org/enniel/ember-roboto-fontface.svg?branch=master)](https://travis-ci.org/enniel/ember-roboto-fontface)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-roboto-fontface.svg)](https://emberobserver.com/addons/ember-roboto-fontface)
+
 The addon includes the Roboto assets (CSS, Icons) in your project (can be disabled), using [roboto-fontface](https://github.com/choffmeister/roboto-fontface-bower) npm package as source.
 
 ## Installation
