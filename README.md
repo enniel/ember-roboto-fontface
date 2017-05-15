@@ -1,5 +1,7 @@
 # ember-roboto-fontface
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enniel/ember-roboto-fontface.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/enniel/ember-roboto-fontface.svg?branch=master)](https://travis-ci.org/enniel/ember-roboto-fontface)
 [![Ember Observer Score](https://emberobserver.com/badges/ember-roboto-fontface.svg)](https://emberobserver.com/addons/ember-roboto-fontface)
 
